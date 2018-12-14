@@ -13,3 +13,5 @@ FOR C PROGRAMMING :
 3.CONVERGING CHARACTERS
 
 4.VARIABLES
+
+5.String terminator and Arrays
