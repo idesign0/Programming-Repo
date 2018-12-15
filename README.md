@@ -2,7 +2,6 @@
 
 BETTER IF YOU SEE FOLDERS IN FOLLOWING ORDER :
 
-
 FOR C PROGRAMMING :
 ---
  >>> TERMS YOU SHOULD KNOW ABOUT C BEFORE GET IN - lINK(www.tutorialspoint.com/cprogramming/index.htm)
