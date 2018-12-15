@@ -5,7 +5,7 @@ BETTER IF YOU SEE FOLDERS IN FOLLOWING ORDER :
 
 FOR C PROGRAMMING :
 ---
- >>> TERMS YOU SHOULD KNOW ABOUT C BEFORE GET IN - lINK(www.tutorialspoint.com/cprogramming/index.htm)
+ >>> TERMS YOU SHOULD KNOW ABOUT C BEFORE GET IN - lINK(http://tutorialspoint.com/cprogramming/index.htm)
 
 1.HELLO WORLD
 
@@ -16,3 +16,4 @@ FOR C PROGRAMMING :
 4.VARIABLES
 
 5.STRING TERMINATOR AND ARRAYS
+http
