@@ -1,0 +1,38 @@
+So what is python and why we use it ?
+
+python is general purpose High level interpreted language.
+
+Ohk ! lets simplyfy .
+
+General purpose - you can just do anything with python 
+
+In details
+
+> Scripting language (Scripting languages are programming languages that don't require an explicit compilation step.)
+
+> Object-oriented
+
+> Poratable
+
+> Powerful
+
+> Easy to learn and use (Yay!)
+
+> Mixes good feature of java perl and Scheme
+
+>>>>        Applications
+
+> System utilities (A program that performs a very specific task, usually related to managing system resources.)
+
+> GUTs ( Graphical user interface ) ( Windows )
+
+> Internet scripting ( we use Java script with Html for making web page morere responsive and Dynamic )
+
+> Embedded scripting
+
+> Database programming
+
+> Artificial intelligence ( Cool HUh ! )
+
+> Image processing
+ 
