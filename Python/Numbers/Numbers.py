@@ -1,7 +1,7 @@
 
 
 #lets talk about numbers
-#And in python you have to put one hashtag on starting of the line for comments
+# In python you have to put one hashtag on starting of the line for comments
 # Usually you open python shell ( IDLE )
 # to open this file you Should go to FILE > New , and you are in.
 # IDLE cant save your program but you can save code in "New files".
@@ -13,7 +13,7 @@
 
 #EX
 # i recommend to try this operations on python shell
-#just tYPE IT AND press enter
+#just type it and press enter
 
 # i am puting one screen shot so you can understand well
 
