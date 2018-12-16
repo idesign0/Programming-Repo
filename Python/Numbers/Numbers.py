@@ -23,6 +23,10 @@
 #3/3
 #3*3
 
+#5*5*5  
+#5 ** 3
+
+# TRY LAST TWO. YOU WILL GET SAME ANSWER = 125 (5^3)
 
 #there are some special cases
 
