@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545065929 source:c:\users\dhruv\desktop\dhruv.github.io\c programming\pre-processor directives\main.c
+	<stdio.h>
+	<stdlib.h>
+
