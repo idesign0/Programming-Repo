@@ -6,18 +6,21 @@
 // they are pre processor directives
 
 /*you can understand i have downloaded this software ( Code Block) so i can have one particular space where i can write my codes
-    but one thing the software it self doing is converting my human readable code in Machine language ( binary languages ( 0 1 ) )
+    but one thing the software it-self doing is converting my human readable code in Machine language ( binary languages ( 0 1 ) )
     . converting the higher level language into machine language is called compiling.
 
     /// This software do this behind the scenes .
 
     /// So what are the functions on pre processing ?
 
-    /// so when program compiles it pre-process first. basically it's going to grab the entire file wherever we tell it to.
+    /// so when program compiles it pre-process first. it first try to add every file which are needed to run the program.
+
     //// #Include is example of preprocessing directives.
+    /// it is going to copy all data from the header file( ex stdio.h ) and put it in (#include <stdio.h>)'s place.
+    /// same for #include <stdlib.h>.
     //// so in #include<stdio.h> what #include doing is it includes the file whatever we want to put in it.
-    //// stdio.h is file we which is included here it stands for " standard input and output " that allows us to use printf.
-         output stuff on screen.
+    //// stdio.h is file we which is included here it stands for " standard input and output " that allows us to use printf
+         put our output stuff on screen.
 
 >>>> Another preprocessing directives you can use is #define.
 */
@@ -35,6 +38,6 @@ int main()
     // #define MYNAME "Dhruv patel" , PRE DIRECTORY is going everywhere in program g=for word MYNAME( which is our constant)
     // and apply its value
 
-
+    //// NOW SEE " NEW HEADER FILE PROGRAM " FOR FULL UNDERSATNDING
     return 0;
 }
