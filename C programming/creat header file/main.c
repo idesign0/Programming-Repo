@@ -5,7 +5,7 @@
 go to FILE > NEW > EMPTY FILE > save it with " .h " extension ex. "headerfile.h" in same place where you saved main.c file
 
 now see my headerfile.h , and come back here.
-
+////OTHERWISE YOU CAN JUST OPEN SCREENSHOT FILE
 you see i added two constants there we are going to use them here in main. let us add our directive
 */
  /* here something to know , if you are adding file from default file location
