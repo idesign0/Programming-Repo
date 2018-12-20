@@ -13,5 +13,9 @@ int main()
     // 5. Addition
     // 6. subtraction
     printf("1.%d\n",a); // you can verify it
+
+    int b = (2 * 3) + 5 * 3 ;
+    printf("2.%d\n",b);
+
     return 0;
 }
