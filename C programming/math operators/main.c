@@ -25,11 +25,11 @@ int main()
     // lets talk about float and integer
     int a = 82 ;
     int b = 25 ;
-    printf(" 6. %d",a/b);
+    printf("6. %d\n",a/b); // you will get only whole number even if answer is  in decimal
 
-    float a = 82.5166 ;  // for float type
-    float b = 25.651 ;
-    printf("7. %f",a/b); // %f for floats
+    float c = 82.5166 ;  // for float type
+    float d = 25.651 ;
+    printf("7. %f\n",c/d); // %f for floats
 
 
     return 0;
