@@ -28,4 +28,5 @@ myname = "Dhruv "
 
 myname + "Patel"
 
+myname * 5
 # now press run
