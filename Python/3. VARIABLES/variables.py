@@ -28,3 +28,7 @@
 #bacum/tuna // by deviding two variable we get alternatively 20/3
 
 #6.6666
+
+
+
+# Do check my shell file for refrence

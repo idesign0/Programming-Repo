@@ -57,3 +57,8 @@
 
 
 #### YOU CAN SEE IN SCREENSHOT 2 SOME TIMES STRINGS DO NOT SHOW UP , IT IS BECAUSE OF WRONG ORDER.
+
+
+
+
+# Do check my shell file for refrence
