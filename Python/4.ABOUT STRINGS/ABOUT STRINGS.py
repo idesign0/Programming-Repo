@@ -16,3 +16,10 @@
 #you can also watch in screenshot attached " SyntaxError: invalid syntax " , something like that
 
 # so i prefer to use double quotation always
+
+
+#ANOTHER WAY IS WHEN YOU HAVE SENTENCE THAT HAS SINGLE QUOTE , PLACE IT IN BETWEEN DOUBLE QUOTES. " I don't think that ... "
+
+#    AND
+
+#WHEN YOU HAVE SENTENCE INCLUDE DOUBLE QUOTES , PLACE IT IN BETWEEN SINGLE QUOTE , SIMPLE AS THAT ..
