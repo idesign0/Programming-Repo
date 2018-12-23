@@ -35,4 +35,6 @@ In details
 > Artificial intelligence ( Cool HUh ! )
 
 > Image processing
+
+>>> PLEASE CHECK SHELL FILE IN EVERY LESSON FOR GOOD REFRENCE 
  
