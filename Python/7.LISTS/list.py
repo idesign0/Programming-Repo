@@ -28,7 +28,7 @@
 
 #numbers
 
-#numbers = [20,54,869,75,15,31,90,55,25]
+#numbers = [20,54,25,75,15,31,90,55,25]
 
 
 ### but this method do it temperory only
@@ -62,7 +62,7 @@
 
 #numbers
 
-#[0,0,869,75,15,31,120]
+#[0,0,25,75,15,31,120]
 
 
 #you can also delet items from lists
@@ -86,7 +86,7 @@
 # [:] it tells we are taking all list numbers , just like we did in strings
 
 
-
+## Do check my shell file for refrence
 
 
 
