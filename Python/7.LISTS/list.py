@@ -31,6 +31,10 @@
 #numbers = [20,54,869,75,15,31,90,55,25]
 
 
-### but this method do it tem
+### but this method do it temperory only
+
+#for permanent basis we have to use " dot operator '.' and one function called 'append'
+
+#we will talk about functions soon
 
 
