@@ -65,7 +65,28 @@
 #[0,0,869,75,15,31,120]
 
 
-#
+#you can also delet items from lists
+
+
+#just follow numbers[:2] = []
+
+#numbers
+#[25,75,15,31,120]
+
+
+#do remove entire list
+
+#number[:] = []
+
+
+#numbers
+
+#[]
+
+# [:] it tells we are taking all list numbers , just like we did in strings
+
+
+
 
 
 
