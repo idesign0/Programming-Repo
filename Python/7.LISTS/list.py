@@ -38,3 +38,29 @@
 #we will talk about functions soon
 
 
+#for permanent list addition
+
+#numbers.append[120]
+
+#numbers
+
+#[20,54,25,75,15,31,120
+
+
+
+
+
+#### another functions are
+
+###numbers[:2]
+
+#[20.54]
+
+#we can also assign multiple values,
+
+#numbers[:2] = [0,0]
+
+
+
+
+
