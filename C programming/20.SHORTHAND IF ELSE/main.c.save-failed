@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+  char LastName[20];
+
+  printf("What's your last name ?\n");
+  scanf("%s\n", LastName );
+
+  (LastName[0]<M) ? (printf("Blue Team\n"):printf(" Red Team\n"));
+}
