@@ -24,6 +24,46 @@ int main()
      // i want to check for different symbols too,
     // i uploaded second screenshot for symbols , obviously it will print out last statement
     // you are programmer now ! :0
+
+    //so lets try something new , create a password which include numbers , alphabet and the symbols and executes only if three of them included
+    //i want to put your own logic , because we can do this by different methods we learn so far ,
+
+    int alphabet;
+    int symbol;
+    int number;
+
+    printf("Your password should have Number , alphabet and symbol \n");
+    printf("type your password's first letter  : \n");
+    scanf(" %c",&alphabet);
+
+    printf("type your password's second letter  : \n");
+    scanf(" %c",&symbol);
+
+    printf("type your password's third letter  : \n");
+    scanf(" %cs",&number);
+
+    if(isalpha(alphabet))
+    {
+        if(isdigit(number))
+        {
+            (isdigit(number)) ? printf("Dump password") : printf("Your password is Set!");
+        }
+    if(isdigit(number)){
+        if(isalpha(alphabet))
+        {
+            (isdigit(number)) ? printf("Dump password") : printf("Your password is Set!");
+        }
+    }else{
+      if(isalpha(alphabet))
+        {
+            (isdigit(number)) ? printf("Your password is Set!") : printf("Dump password");
+        }
+        if(isdigit(number))
+        {
+            (isalpha(alphabet)) ? printf("Your password is Set!") : printf("Dump password");
+        }
+    }
+    }
     return 0;
 }
 
