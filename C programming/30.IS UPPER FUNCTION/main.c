@@ -7,6 +7,7 @@ int main()
 {
     int name;
 
+
     printf("Enter letter\n");
     scanf(" %c",&name);
 
@@ -17,18 +18,30 @@ int main()
         }else{
             printf("%c is lowercase\n",name);
         }
-        }else{
-        printf("input is not alphabet\n");
+    }else{
+        printf("input is not alphabet\n\n\n");
      }
+
+     //IF YOU WANT TO CONVERT LOWERCASE LETTER IN UPPERCASE ,YOU CAN USE " TOUPPER() "
+     char a = 'b';
+     char b = '9';
+     char c = 'F';
+     printf("converting a into capital letter = %c\n",toupper(a));
+     printf("converting b into capital letter = %c\n",toupper(b));
+     printf("converting c into capital letter = %c\n",toupper(c));
+
+     //you will see it will not do any change in uppercases or Numbers . it will only change in small alphabets
 
      // i want to check for different symbols too,
     // i uploaded second screenshot for symbols , obviously it will print out last statement
     // you are programmer now ! :0
 
+
+    /////////FOR PRACTISE
     //so lets try something new , create a password which include numbers , alphabet and the symbols and executes only if three of them included
     //i want to put your own logic , because we can do this by different methods we learn so far ,
 
-    int alphabet;
+    /*int alphabet;
     int symbol;
     int number;
 
@@ -63,7 +76,7 @@ int main()
             (isalpha(alphabet)) ? printf("Your password is Set!") : printf("Dump password");
         }
     }
-    }
+    }*/
     return 0;
 }
 
