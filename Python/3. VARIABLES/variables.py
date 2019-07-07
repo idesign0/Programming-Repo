@@ -4,7 +4,9 @@
 
 # varieables are just placeholders for any data
 
-# And tou should give varieable name starting with letter
+# And tou should give variable name starting with letter
+
+# variables are used when you dont know which values you have to deal with !
 
 #ex
 
