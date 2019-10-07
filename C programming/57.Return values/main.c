@@ -16,7 +16,7 @@ int main(){
     printf("Bonus = %d ",totalBonusdhruvil);
 }
 
-void bonus(int year){
+int bonus(int year){
        int  bonus= 250*year;
         if(year>10){
             bonus += 1000;

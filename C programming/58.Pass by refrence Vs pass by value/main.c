@@ -1,9 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void printing();
-
 int passByvalue();
+int passByaddress( int * i);
 
 int main(){
     int tuna =50;
