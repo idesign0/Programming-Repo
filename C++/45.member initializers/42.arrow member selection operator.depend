@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1572514408 source:d:\users\dhruv\documents\github\dhruv.github.io\c++\42.arrow member selection operator\main.cpp
+	<iostream>
+	"dhruv.h"
+
+1572512651 d:\users\dhruv\documents\github\dhruv.github.io\c++\42.arrow member selection operator\dhruv.h
+
+1572513620 d:\users\dhruv\documents\github\dhruv.github.io\c++\42.arrow member selection operator\dhruv.cpp
+	"dhruv.h"
+	<iostream>
+
+1572513620 source:d:\users\dhruv\documents\github\dhruv.github.io\c++\42.arrow member selection operator\dhruv.cpp
+	"dhruv.h"
+	<iostream>
+
