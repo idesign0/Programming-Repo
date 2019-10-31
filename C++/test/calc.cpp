@@ -1,5 +1,6 @@
 #include <iostream>
 #include <ctype.h>
+
 using namespace std;
 
 
@@ -33,6 +34,7 @@ public:
     }
     break;
 
+
     default : cout<< "Add valid math operation";
 }
 
@@ -50,6 +52,7 @@ private:
     int value;
 
 };
+
 int main()
 {
     int a,b,c; // making initial variables

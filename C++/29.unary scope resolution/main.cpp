@@ -4,7 +4,13 @@
 
 using namespace std;
 
+int x=54;
+
 int main(){
-    dhruv se;
+
+    double x = 230;
+
+    cout << ::x ;
+
     return 0;
 }

@@ -3,12 +3,11 @@
 #include <string.h>
 #include <ctype.h>
 
-int main()
-{
+int main(){
     int i;
     int players[5]={10,25,100,107,7};
     int runs[5]={55,25,10,65,99};
-    int games[5]={10,9,10,8,6};
+    int games[5]={8,9,10,6,10};
     float srate[5];
     float bestsrate=0.0;
     int bestPlayer;
@@ -26,7 +25,6 @@ int main()
     }
 
         printf("\n\n\t Best player is %d", bestPlayer);
-
 }
 
 

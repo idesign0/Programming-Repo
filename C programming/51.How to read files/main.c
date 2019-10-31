@@ -11,7 +11,6 @@ int main()
 
         fgets(singleline,150,fpointer);
         puts(singleline);
-
     }
 
     fclose(fpointer);
