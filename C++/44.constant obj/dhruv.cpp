@@ -3,12 +3,13 @@
 
 using namespace std;
 
-dhruv::dhruv(int a,int b)
-:val1(a),val2(b)
-{
+dhruv::dhruv(){
 }
 
-void print(){
-    cout << val1 << endl;
-    cout << val2 << endl;
+void dhruv::printing(){
+    cout << "I'm normal object !\n";
 }
+void dhruv::cprinting() const{
+    cout << "I'm constant object !";
+}
+

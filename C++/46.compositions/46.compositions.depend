@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1572775835 source:d:\users\dhruv\documents\github\dhruv.github.io\c++\46.compositions\birthday.cpp
+	"birthday.h"
+	<iostream>
+
+1572775378 d:\users\dhruv\documents\github\dhruv.github.io\c++\46.compositions\birthday.h
+
+1572776462 source:d:\users\dhruv\documents\github\dhruv.github.io\c++\46.compositions\people.cpp
+	<iostream>
+	"birthday.h"
+	"people.h"
+
+1572778153 d:\users\dhruv\documents\github\dhruv.github.io\c++\46.compositions\people.h
+	<string>
+	"birthday.h"
+
+1572776005 source:d:\users\dhruv\documents\github\dhruv.github.io\c++\46.compositions\main.cpp
+	<iostream>
+	"birthday.h"
+	"people.h"
+

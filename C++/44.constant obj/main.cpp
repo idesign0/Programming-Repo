@@ -1,7 +1,6 @@
 #include <iostream>
 #include "dhruv.h"
 #include "dhruv.cpp"
-
 using namespace std;
 
 int main()
@@ -11,5 +10,5 @@ int main()
     odhruv.printing();
 
     const dhruv codhruv;
-    codhruv.printing();
+    codhruv.cprinting();
 }

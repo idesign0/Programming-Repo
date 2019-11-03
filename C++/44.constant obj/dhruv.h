@@ -5,13 +5,12 @@
 class dhruv
 {
     public:
-        dhruv(int a,int b);
-        void print();
+        dhruv();
+        void printing();
+        void cprinting() const;
     protected:
 
     private:
-        int val1;
-        const int val2;
 };
 
 #endif // DHRUV_H
