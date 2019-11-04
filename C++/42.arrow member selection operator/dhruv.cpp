@@ -8,5 +8,5 @@ dhruv::dhruv(){
 }
 
 void dhruv::printing(){
-  cout << "I started printing well !" ;
+  cout << "I started printing well !\n" ;
 }
