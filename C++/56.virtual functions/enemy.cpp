@@ -5,7 +5,7 @@ enemy::enemy()
     //ctor
 }
 
- void enemy::attack()
+ void enemy::attack(int a)
 {
-    //ctor
 }
+

@@ -1,0 +1,7 @@
+
+monster::monster()
+{
+    //ctor
+}
+
+

@@ -6,7 +6,6 @@ class monster : public enemy
 {
     public:
         monster();
-        void attack(int a);
 
     private:
 };
