@@ -7,19 +7,21 @@ class getvalue{
 
 public:
     getvalue(){
-        randomVar=0;
     }
 
 private:
     int randomVar;
+    int randvar2;
 
       friend void otherfun(getvalue go);
 };
 
 void otherfun(getvalue go){
     go.randomVar = 50;
+    go.randvar2= 545;
 
     cout << go.randomVar << endl;
+    cout << go.randvar2 << endl;
 }
 
 
