@@ -1,0 +1,8 @@
+fruit 45
+chair 0
+apple 56
+dirtyneedle -59
+pencil 0
+shoe 0
+ninja -32
+meth -35
