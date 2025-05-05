@@ -1,0 +1,17 @@
+FaultDiameter,Horsepower,Normal,IR,BB,OR@Centered,OR@Orthogonal,OR@Opposite
+"0.007""",0,0_hp.mat,IR007_0_hp.mat,B007_0_hp.mat,OR007@6_0_hp.mat,OR007@3_0_hp.mat,OR007@12_0_hp.mat
+"0.007""",1,1_hp.mat,IR007_1_hp.mat,B007_1_hp.mat,OR007@6_1_hp.mat,OR007@3_1_hp.mat,OR007@12_1_hp.mat
+"0.007""",2,2_hp.mat,IR007_2_hp.mat,B007_2_hp.mat,OR007@6_2_hp.mat,OR007@3_2_hp.mat,OR007@12_2_hp.mat
+"0.007""",3,3_hp.mat,IR007_3_hp.mat,B007_3_hp.mat,OR007@6_3_hp.mat,OR007@3_3_hp.mat,OR007@12_3_hp.mat
+"0.014""",0,0_hp.mat,IR014_0_hp.mat,B014_0_hp.mat,OR014@6_0_hp.mat,*,*
+"0.014""",1,1_hp.mat,IR014_1_hp.mat,B014_1_hp.mat,OR014@6_1_hp.mat,*,*
+"0.014""",2,2_hp.mat,IR014_2_hp.mat,B014_2_hp.mat,OR014@6_2_hp.mat,*,*
+"0.014""",3,3_hp.mat,IR014_3_hp.mat,B014_3_hp.mat,OR014@6_3_hp.mat,*,*
+"0.021""",0,0_hp.mat,IR021_0_hp.mat,B021_0_hp.mat,OR021@6_0_hp.mat,OR021@3_0_hp.mat,OR021@12_0_hp.mat
+"0.021""",1,1_hp.mat,IR021_1_hp.mat,B021_1_hp.mat,OR021@6_1_hp.mat,OR021@3_1_hp.mat,OR021@12_1_hp.mat
+"0.021""",2,2_hp.mat,IR021_2_hp.mat,B021_2_hp.mat,OR021@6_2_hp.mat,OR021@3_2_hp.mat,OR021@12_2_hp.mat
+"0.021""",3,3_hp.mat,IR021_3_hp.mat,B021_3_hp.mat,OR021@6_3_hp.mat,OR021@3_3_hp.mat,OR021@12_3_hp.mat
+"0.028""",0,0_hp.mat,IR028_0_hp.mat,B028_0_hp.mat,*,*,*
+"0.028""",1,1_hp.mat,IR028_1_hp.mat,B028_1_hp.mat,*,*,*
+"0.028""",2,2_hp.mat,IR028_2_hp.mat,B028_2_hp.mat,*,*,*
+"0.028""",3,3_hp.mat,IR028_3_hp.mat,B028_3_hp.mat,*,*,*

@@ -1,0 +1,7 @@
+FaultDiameter,Horsepower,FaultClass
+"0.007""","""0""",Normal
+"0.014""","""1""",IR
+"0.021""","""2""",BB
+"0.028""","""3""",OR@Centered
+,,OR@Orthogonal
+,,OR@Opposite
